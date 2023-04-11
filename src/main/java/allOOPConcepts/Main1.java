@@ -10,6 +10,8 @@ package allOOPConcepts;
  */
 public class Main1 {
 
+
+    // Note : I test the code without using the Department Class.
     public static void main(String[] args) {
 
         // Salaried Employee :
